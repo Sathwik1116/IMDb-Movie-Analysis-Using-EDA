@@ -1,4 +1,4 @@
-# IMDb-Movie-Analysis-Using-EDA
+# IMDb-Movie-Analysis
 IMDb movie analysis using Web Scraping, EDA, and Hypothesis Testing
 
 ## Problem Statement
